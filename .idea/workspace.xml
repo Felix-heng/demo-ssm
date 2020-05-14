@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22b3dfe6-97d3-4cf3-8e1b-bb4bd8448082" name="Default Changelist" comment="" />
+    <list default="true" id="22b3dfe6-97d3-4cf3-8e1b-bb4bd8448082" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jbit/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jbit/T.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,13 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589420194457</updated>
-      <workItem from="1589420209844" duration="2359000" />
+      <workItem from="1589420209844" duration="3377000" />
     </task>
     <servers />
   </component>
@@ -73,14 +83,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589422748408">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589422837819">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1589422748408" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1589422837819" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1589422682286">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589422682286" />
+    <state x="551" y="280" width="274" height="208" key="Github.ShareDialog" timestamp="1589422906155">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="551" y="280" width="274" height="208" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1589422906155" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589423743251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1589423743251" />
     <state x="375" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1589420221311">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
